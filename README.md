@@ -1,7 +1,7 @@
-- 👋 Hi, My name is @calebhubbs
-- 👀 I’m interested in Sports, Stocks, Stargazing, Adventuring & anything that has to do with become a better Software Engineer.
-- 🌱 I’m currently learning Three.Js, Vue, & Angular
-- 💞️ I’m looking to collaborate on any projects that deal with JavaScript, Python, React. & also any bots that deal with the sports world, or the stock world. 
+- 👋 What's up, My name is @calebhubbs
+- 👀 I’m interested in Sports, Stocks, Stargazing, Adventuring & Fitness.
+- 🌱 I'm currently a full-stack engineer at YouVersion. While I am full-stack, my proficiency is web.
+- 💞️ I specialize in making world class websites with NextJs and Typescript. 
 - 📫 How to reach me calebhubbs33@gmail.com or on LinkedIn https://www.linkedin.com/in/caleb-hubbs-7a163a158/
 
 <!---
